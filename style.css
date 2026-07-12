@@ -6,11 +6,11 @@
 
 body {
   font-family: Arial, sans-serif;
-  background: darkgreen;
+  background: lightgreen;
 }
 
 .header {
-  background-color: lightgreen;
+  background-color: darkgreen;
   text-align: center;
   padding: 30px;
 }
