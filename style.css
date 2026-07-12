@@ -20,13 +20,13 @@ body {
   font-size: 32px;https://github.com/tmgrenon/tmgrenon.github.io/tree/main
 }
 
-.nav {
+nav {
   background-color: #ffffff;
   border-bottom: 1px solid;
   padding: 10px 20px;
 }
 
-recipe-grid {
+.recipe-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 20px;
@@ -35,7 +35,7 @@ recipe-grid {
   margin: 0 auto;
 }
 
-recipe-card a{
+.recipe-card a{
   text-decoration: none;
   display: black;
   border: 1px solid;
