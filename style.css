@@ -21,9 +21,15 @@ body {
 }
 
 nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 200px;
+  height: 100vh;
   background-color: #ffffff;
   border-bottom: 1px solid;
   padding: 10px 20px;
+  box-sizing: border-box;
 }
 
 .recipe-grid {
