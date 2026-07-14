@@ -1,1 +1,26 @@
-
+<style>
+  body {
+    margin: 0 10%;
+    font: 1.25rem/1.75rem sans-serif;
+    color: floralwhite;
+    background-color: darkslatgray;
+  }
+  header {
+    background-color: #faf2e4;
+    text-align: center;
+    padding: 12px;
+    margin-bottom: 36px;
+  }
+h1 {
+  color: darkslategray;
+  font: bold 1.75rem sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  margin: 0;
+}
+h2 {
+  color: orange;
+  font: bold 1.25rem sans-serif;
+  text-align: center;
+}
+</style>
