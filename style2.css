@@ -18,11 +18,7 @@ h1 {
   letter-spacing: 5px;
   margin: 0;
 }
-h2 {
-  color: orange;
-  font: bold 1.25rem sans-serif;
-  text-align: center;
-}
+
 
 nav {
   position: fixed;
