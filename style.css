@@ -20,8 +20,17 @@ body {
   font-size: 32px;https://github.com/tmgrenon/tmgrenon.github.io/tree/main
 }
 
-
-
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 40px;
+  height: 100vh;
+  background-color: #ffffff;
+  border-bottom: 1px solid;
+  padding: 10px 20px;
+  box-sizing: border-box;
+}
 .recipe-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
