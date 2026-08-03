@@ -26,7 +26,7 @@ h2 {
   margin: 0;
 }
 
-recipe-card.class {
+recipe-grid.class {
   box-sizing: content-box;
   margin: 20px;
 }
