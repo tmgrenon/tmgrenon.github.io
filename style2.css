@@ -27,6 +27,7 @@ h2 {
 }
 
 .class {
+  box-sizing: content-box;
   margin: 20px;
 }
 
