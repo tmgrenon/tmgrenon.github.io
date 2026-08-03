@@ -18,6 +18,15 @@ h1 {
   letter-spacing: 5px;
   margin: 0;
 }
+h2 {
+  color: darkslategray;
+  font: bold 1.75rem sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  margin: 0;
+}
+
+
 
 p {
   line-height: 1.6; 
